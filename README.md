@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 Welcome Guys:
+  🎉 Support<br>🐽I like Eating Roasted Pork <br>🧑‍💻Informatics student<br>🧟‍♂️ I’m Like Horror <br>💬 Ask me about<br>⚡ Enjoy seeing the results of my boredom, guys.
 
 
 ## 🌐 Socials:
