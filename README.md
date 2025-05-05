@@ -15,4 +15,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=janrosimamora&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/janrosimamora/janrosimamora/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
